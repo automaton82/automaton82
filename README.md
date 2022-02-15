@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @automaton82
 - 👀 I’m interested in technology.
-- 🌱 I’m currently learning ML, home automation, Qubits.
+- 🌱 I’m currently learning ML, home automation, Android, Qubits.
 - 💞️ I’m looking to collaborate on anything interesting.
 - 📫 Not sure why I'm writing this.
 
