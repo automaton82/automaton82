@@ -11,8 +11,8 @@
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)&nbsp;
 [![Notepad++](https://img.shields.io/badge/Notepad_++-%23239120.svg?style=for-the-badge&logo=notepad++&logoColor=white)](https://notepad-plus-plus.org/)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-ca/windows/)
 
 ----- 
 [![](https://github-readme-stats.vercel.app/api?username=automaton82&count_private=true&show_icons=true&hide_border=true&include_all_commits=true)](https://github.com/automaton82)
