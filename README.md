@@ -1,6 +1,5 @@
 [![](https://komarev.com/ghpvc/?username=automaton82&color-brightgreen.svg)](https://github.com/automaton82)&nbsp;
 [![](https://img.shields.io/badge/Joined_Github-May%2018%2C%202013-blueviolet)](https://github.com/automaton82)
-[![](https://img.shields.io/badge/LinkedIn-Terrence_Sheflin-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/terrence-sheflin/)
 
 - 👋 Hi, I’m @automaton82
 - 👀 I’m interested in technology.
