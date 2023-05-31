@@ -17,6 +17,6 @@
 ----- 
 [![](https://github-readme-stats.vercel.app/api?username=automaton82&count_private=true&show_icons=true&hide_border=true&include_all_commits=true)](https://github.com/automaton82)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=automaton82&layout=compact&count_private=true&hide_border=true&include_all_commits=true&card_width=450&langs_count=10)](https://github.com/automaton82)
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=automaton82&layout=compact&count_private=true&hide_border=true&include_all_commits=true&card_width=450&langs_count=10&exclude_repo=pspace)](https://github.com/automaton82)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=automaton82&no-frame=true&column=4)](https://github.com/automaton82)
+[![trophy](https://github-profile-trophy.vercel.app/?username=automaton82&no-frame=true&column=4&rank=SSS,SS,S,AAA,AA,A,B,SECRET)](https://github.com/automaton82)
